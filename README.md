@@ -1,4 +1,4 @@
-# 🔥 DragonEye - keylogger Tool 2026 🔥
+# 🐉 DragonEye - keylogger Tool 2026 👁️‍🗨️
 
 <p align="center">
   <img src="image.png" width="600" alt="test logger">
@@ -37,8 +37,8 @@ python3 DragonEye.py
 
 ###- CREDITS
 
-**- keylogger tool 2026 By Trovao - ST4R-SHINY**
+**- keylogger⌨️ tool 2026 By Trovao - ST4R-SHINY**
 
 ### ⚠️ Disclaimer
 
-** This project is for educational purposes only and must be used only in controlled environments and on systems you own or have permission to test
+**- This project is for educational purposes only and must be used only in controlled environments and on systems you own or have permission to test**
