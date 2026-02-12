@@ -8,6 +8,10 @@
   <img src="image11.png" width="700" alt="detecs">
 </p>
 
+<p align="center">
+  <img src="image2.png" width="600" alt="test logger">
+</p>
+
 **DragonEye Logger** It's an advanced, undetectable keylogger programmed in Python that connects via a Discord webhook. - new keylogger tool (2026)
 
 **Main Features**
