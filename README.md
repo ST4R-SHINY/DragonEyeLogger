@@ -39,7 +39,7 @@ python3 DragonEye.py
 
 ```
 
-###- CREDITS
+## CREDITS
 
 **- keylogger⌨️ tool 2026 By Trovao - ST4R-SHINY**
 
