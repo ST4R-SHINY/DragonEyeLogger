@@ -41,7 +41,7 @@ python3 DragonEye.py
 
 ## CREDITS
 
-**- keylogger⌨️ tool 2026 By Trovao - ST4R-SHINY**
+**- keylogger⌨️ tool 2026 By ᴛʀᴜᴇᴋɪʟʟᴇʀ - ST4R-SHINY**
 
 ### ⚠️ Disclaimer
 
